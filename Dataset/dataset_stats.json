@@ -1,0 +1,64 @@
+{
+  "creation_date": "2025-07-13T18:37:37.204926",
+  "total_windows": 8800,
+  "participants": 5,
+  "window_duration_seconds": 30,
+  "overlap_ratio": 0.5,
+  "overall_distribution": {
+    "Normal": 8043,
+    "Hypopnea": 593,
+    "Obstructive Apnea": 164
+  },
+  "participant_stats": {
+    "AP01": {
+      "total_windows": 1822,
+      "label_distribution": {
+        "Normal": 1727,
+        "Hypopnea": 79,
+        "Obstructive Apnea": 16
+      },
+      "duration_hours": 15.183333333333334,
+      "status": "success"
+    },
+    "AP02": {
+      "total_windows": 1769,
+      "label_distribution": {
+        "Normal": 1616,
+        "Hypopnea": 150,
+        "Obstructive Apnea": 3
+      },
+      "duration_hours": 14.741666666666667,
+      "status": "success"
+    },
+    "AP03": {
+      "total_windows": 1696,
+      "label_distribution": {
+        "Normal": 1679,
+        "Hypopnea": 16,
+        "Obstructive Apnea": 1
+      },
+      "duration_hours": 14.133333333333333,
+      "status": "success"
+    },
+    "AP04": {
+      "total_windows": 1932,
+      "label_distribution": {
+        "Normal": 1765,
+        "Hypopnea": 166,
+        "Obstructive Apnea": 1
+      },
+      "duration_hours": 16.1,
+      "status": "success"
+    },
+    "AP05": {
+      "total_windows": 1581,
+      "label_distribution": {
+        "Normal": 1256,
+        "Hypopnea": 182,
+        "Obstructive Apnea": 143
+      },
+      "duration_hours": 13.175,
+      "status": "success"
+    }
+  }
+}
